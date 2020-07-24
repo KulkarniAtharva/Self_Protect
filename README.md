@@ -1,6 +1,6 @@
-# self_protect
+# Self Protect
 
-A new Flutter application.
+My 1st Flutter application.
 
 ## Getting Started
 
