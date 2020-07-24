@@ -1,6 +1,6 @@
-# Self Protect
+# Self Protect - An Emergency Safety App
 
-An emergency safety app is a location based service that could help you in emergency situations such as: physical assault, injury, robbery, or in case you get lost.
+Self Protect is a location based service that could help you in emergency situations such as: physical assault, injury, robbery, or in case you get lost.
 
 
 My 1st Flutter application.
