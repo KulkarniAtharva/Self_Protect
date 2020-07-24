@@ -2,6 +2,29 @@
 
 My 1st Flutter application.
 
+### Complain
+
+This service provides the complain service if user face any type of harassment, they can complain to
+
+- Police
+- Rab
+- Human Rights
+- Legal Aid
+- Anti Corruption <BR><BR>
+Complain Type: Terrorism, Murder, Robbery, Kidnap, Women abuse, Cyber Crime, Corruption etc.
+  
+
+### Search Nearest
+
+This service provides necessary information depends on user location
+
+- Bus Station
+- ATM Booth
+- Bank
+- Restaurant
+- Shopping Mall  <BR><BR>
+Informations: Name, Address, Location with Map.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
