@@ -5,6 +5,10 @@ Self Protect is a location based service that could help you in emergency situat
 
 My 1st Flutter application.
 
+### INSTANT HELP REQUEST BY PRESSING POWER BUTTON
+
+In case of Emergency situation(Spotted Crime Scene), one person (when victim) or when eyewitness of another victim can send immediate help request with his location(GPS & GPRS location) and required information(IMEI, Photo, Few Seconds Audio & Video) to their nearest Police Station, Friends & Family and nearest app user via central server by three times power pressing.
+
 ### Complain
 
 This service provides the complain service if user face any type of harassment, they can complain to
